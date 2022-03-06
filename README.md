@@ -1,2 +1,26 @@
-# twitter-communities
-A list of Twitter communities
+# A list of Twitter communities
+
+Feel free to fork this repository and add new communities
+
+* [Haustiere DACH](https://twitter.com/i/communities/1496583279809638408)
+* [The Go Programming Language](https://twitter.com/i/communities/1493637136502960134)
+* [Finance Forward](https://twitter.com/i/communities/1493689845528547330)
+* [Communities Feedback](https://twitter.com/i/communities/1433869915434278912)
+* [Apple](https://twitter.com/i/communities/1461479793287778304)
+* [Dogs of Twitter](https://twitter.com/i/communities/1471476634461089793)
+* [Open Source](https://twitter.com/i/communities/1471569662462726147)
+* [Tech Twitter](https://twitter.com/i/communities/1472105760389668865)
+* [Design Twitter](https://twitter.com/i/communities/1453877367030484992)
+* [Twitter Cooking](https://twitter.com/i/communities/1473754952707231751)
+* [Science](https://twitter.com/i/communities/1473400180514906114)
+* [AWS](https://twitter.com/i/communities/1471503983839567878)
+* [Fintech D-A-CH](https://twitter.com/i/communities/1496749520859938818)
+* [Mechanical Keyboards](https://twitter.com/i/communities/1457809840542261250)
+* [Photography](https://twitter.com/i/communities/1471725273326489604)
+* [Ruby on Rails](https://twitter.com/i/communities/1498390597530537984)
+* [dotnet](https://twitter.com/i/communities/1488624124817666051)
+* [Climate Movement](https://twitter.com/i/communities/1461485284151988230)
+* [Kubernetes](https://twitter.com/i/communities/1444745802383953921)
+* [Minimalist Entrepreneurs](https://twitter.com/i/communities/1452793387510272002)
+* [Wordle](https://twitter.com/i/communities/1481993465374380041)
+* [Video Creators](https://twitter.com/i/communities/1472079768052981764)
